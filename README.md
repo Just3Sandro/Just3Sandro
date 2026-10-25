@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sandro 👋
 
-<!--
-**Just3Sandro/Just3Sandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity • AI Orchestration • Systems • Software Development
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, artificial intelligence, low-level systems, infrastructure and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI extensively as an engineering and orchestration layer to accelerate development, automate workflows, analyze complex problems and coordinate technical tasks across security, infrastructure and software projects.
+
+### 🔐 Current focus
+
+- Cybersecurity & Security Engineering
+- AI Orchestration & AI-assisted Engineering
+- Agentic Workflows & Automation
+- Linux & Systems Administration
+- Security Monitoring & Detection
+- Infrastructure Automation
+- C / C++ / Python / Rust
+- Docker, Ansible, ELK, Prometheus & Grafana
+- CTFs, Reverse Engineering & Windows Internals
+
+### 🚀 Featured areas
+
+🤖 **AI & Orchestration** — AI-assisted development, agentic workflows, automation and technical problem solving  
+🛡️ **Cybersecurity** — SIEM, monitoring, detection, malware analysis and security labs  
+🐧 **Systems** — Linux, Gentoo, networking and low-level programming  
+⚙️ **Infrastructure** — Docker, Ansible, monitoring and automation  
+💻 **Development** — C, C++, Python, Rust and web technologies
+
+### 🌐 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/sandromar/) · [Portfolio](https://github.com/Just3Sandro/mon-portfolio)
+
+---
+
+> Building, breaking, automating and understanding systems.
