@@ -1,35 +1,54 @@
-# Hi, I'm Sandro 👋
+# Bonjour, I'm Sandro 👋
 
-### Cybersecurity • AI Orchestration • Systems • Software Development
+### Meee
 
-I'm passionate about cybersecurity, artificial intelligence, low-level systems, infrastructure and software engineering.
+The future honestly scares me as much as it fascinates me. So instead of just watching everything happen, I’d rather understand how it works.
 
-I use AI extensively as an engineering and orchestration layer to accelerate development, automate workflows, analyze complex problems and coordinate technical tasks across security, infrastructure and software projects.
+I’m learning **cybersecurity, AI and software development** to become as independent as possible — build my own tools, secure my own systems and automate what I can.
 
-### 🔐 Current focus
+I’m curious by nature, both in tech and outside of it. My goal while I’m still young is to work remotely, travel, discover new cultures and see as much of the world as possible.
 
-- Cybersecurity & Security Engineering
-- AI Orchestration & AI-assisted Engineering
-- Agentic Workflows & Automation
-- Linux & Systems Administration
-- Security Monitoring & Detection
-- Infrastructure Automation
-- C / C++ / Python / Rust
-- Docker, Ansible, ELK, Prometheus & Grafana
-- CTFs, Reverse Engineering & Windows Internals
+**Understand. Build. Secure. Automate. Explore.**
 
-### 🚀 Featured areas
+### 🧠 What I'm into
 
-🤖 **AI & Orchestration** — AI-assisted development, agentic workflows, automation and technical problem solving  
-🛡️ **Cybersecurity** — SIEM, monitoring, detection, malware analysis and security labs  
-🐧 **Systems** — Linux, Gentoo, networking and low-level programming  
-⚙️ **Infrastructure** — Docker, Ansible, monitoring and automation  
-💻 **Development** — C, C++, Python, Rust and web technologies
+🔐 Cybersecurity, reverse engineering & pwn  
+🤖 AI orchestration, agents & automation  
+🐧 Linux, systems & networking  
+⚙️ Infrastructure, monitoring & DevOps  
+💻 Low-level programming & software development  
 
-### 🌐 Connect with me
+### 🛠️ Things I use
+
+**Languages**  
+C · C++ · Python · JavaScript
+
+**Systems & Infra**  
+Linux · Docker · Git
+
+**Security & Monitoring**  
+ELK Stack · Traefik · Prometheus · Grafana
+
+**AI**  
+LLMs · Claude · Codex · Sakana Fugu ai
+
+### 🚧 What I'm building
+
+I’m currently working on projects around **cybersecurity, AI and system automation**.
+
+One of my main projects focuses on making **reverse engineering and pwn easier to learn**, with a more practical and accessible approach to low-level security.
+
+### 🌍 Outside the terminal
+
+✈️ Travel  
+🏋️ Sport  
+♟️ Chess  
+🎬 Cinema  
+🎵 Music  
+🍷 Always curious about something new
+
+### 🌐 Find me
 
 [LinkedIn](https://www.linkedin.com/in/sandromar/) · [Portfolio](https://github.com/Just3Sandro/mon-portfolio)
-
----
 
 > Building, breaking, automating and understanding systems.
